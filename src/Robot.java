@@ -1,4 +1,5 @@
 import java.math.BigInteger;
+import java.util.Objects;
 
 public class Robot implements Consumer{
     @Override

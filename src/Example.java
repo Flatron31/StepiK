@@ -74,7 +74,15 @@ public class Example {
 //        double c = 4.3;
 //        boolean res = (Math.abs(a + b - c) < 0.0001);
 //        System.out.println(res);
-        int year = 2000;
+
+////////////////////////////////////////////////////////////////////////////////////////
+        //        Задача 2.2 - 3
+//        char b = '\\';
+//        int a = 29;
+//        int res = (int) b + a;
+//        char result =(char) res;
+//        System.out.println(result);
+
 
 
 
