@@ -1,7 +1,8 @@
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.Optional;
 
-public class Example {
+public class Example<X> {
     public static void main(String[] args) throws IOException {
         //        Collection<?> collection = new ArrayList<Object>();;
         //        Object object = new Object();
@@ -83,8 +84,18 @@ public class Example {
 //        char result =(char) res;
 //        System.out.println(result);
 
-
-
-
     }
+
+////////////////////////////////////////////////////////////////////////////////////////
+    //        Задача 6.1 - 11
+//    public void someMethod(Object obj) {
+//        X x1 = (X) obj;
+//        Optional<X> x2 = Optional.empty();
+//        boolean b1 = (obj instanceof Optional<X>);
+//        boolean b2 = (obj instanceof X);
+//        X x3 = new X();
+//        X [] xArr = new X[1];
+//    }
+
+
 }
