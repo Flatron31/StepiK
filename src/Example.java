@@ -84,10 +84,9 @@ public class Example<X> {
 //        char result =(char) res;
 //        System.out.println(result);
 
-    }
 
 ////////////////////////////////////////////////////////////////////////////////////////
-    //        Задача 6.1 - 11
+        //        Задача 6.1 - 11
 //    public void someMethod(Object obj) {
 //        X x1 = (X) obj;
 //        Optional<X> x2 = Optional.empty();
@@ -96,6 +95,17 @@ public class Example<X> {
 //        X x3 = new X();
 //        X [] xArr = new X[1];
 //    }
+
+
+////////////////////////////////////////////////////////////////////////////////////////
+        //        Задача 2.1 - 8
+//        (((year % 4 == 0) - (year % 100 !=0)) || (year % 400 == 0);
+//        int year = 100;
+//        year = (year / 4) - (year / 100) + (year / 400);
+//        System.out.println(year);
+
+
+    }
 
 
 }
